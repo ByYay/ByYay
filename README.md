@@ -1,17 +1,17 @@
 <p align="center">
-  <a href="https://github.com/YayForge">
-    <img src="https://github.com/YayForge.png" alt="Avatar" width="100" style="border-radius:50%;" />
+  <a href="https://github.com/ByYay">
+    <img src="https://github.com/ByYay.png" alt="Avatar" width="100" style="border-radius:50%;" />
   </a>
 </p>
 
-<h1 align="center">YayForge</h1>
+<h1 align="center">ByYay</h1>
 <p align="center">Security Enthusiast • Ethical Hacker • Software Engineer</p>
 
 <p align="center">
-  <a href="https://github.com/YayForge">
+  <a href="https://github.com/ByYay">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/YayForge?tab=repositories">
+  <a href="https://github.com/ByYay?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-007EC6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </p>
@@ -26,7 +26,7 @@ I specialize in cybersecurity with a focus on ethical hacking, system-level prog
 ##  Areas of Interest
 - **Offensive Security**: Red teaming, CTFs, and real-world exploit simulation  
 - **Custom Tooling**: Building modular, stealthy, and effective cybersecurity tools  
-- **Malware Development**: Simulating real-world attacks in lab environments to strengthen defenses 
+- **Malware Development**: Simulating real-world attacks in lab environments to strengthen defenses  
 - **Python & C/C++**: Security-focused development with performance in mind  
 
 ---
@@ -55,6 +55,6 @@ I follow a research-driven approach: learning by breaking and building.
 Each project is designed to explore a specific concept — whether it's stealth, evasion, or system internals.  
 I prefer clean, minimal, and modular code that's built for purpose, not show.
 
-
 ---
+
 *All activities and shared code are intended for legal, educational, and ethical use only.*
