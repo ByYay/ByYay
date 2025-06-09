@@ -31,13 +31,6 @@ I specialize in cybersecurity with a focus on ethical hacking, system-level prog
 
 ---
 
-##  Current Learning Goals
-- Advanced JavaScript for web vulnerability research  
-- Cross-compilation and AV evasion techniques  
-- Building automation with Docker for research environments  
-
----
-
 ##  Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
