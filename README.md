@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">ByYay</h1>
-<p align="center">Security Enthusiast • Ethical Hacker • Software Engineer</p>
+<p align="center">Security Enthusiast • Software Engineer</p>
 
 <p align="center">
   <a href="https://github.com/ByYay">
