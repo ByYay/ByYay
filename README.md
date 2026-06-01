@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/focus-offensive%20security-0a0a0a?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/cert-eCPPT-0a0a0a?style=flat-square" alt="eCPPT" />
   <img src="https://img.shields.io/badge/cert-eJPT-0a0a0a?style=flat-square" alt="eJPT" />
 </p>
 
@@ -69,6 +70,7 @@ Security-focused developer interested in offensive security, penetration testing
 
 ### Certifications
 
+- **eCPPT** &mdash; eLearnSecurity Certified Professional Penetration Tester
 - **eJPT** &mdash; eLearnSecurity Junior Penetration Tester
 
 ---
